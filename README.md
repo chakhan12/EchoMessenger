@@ -40,7 +40,8 @@
 * **효과**: 대화창에 무의미한 빈 줄이 추가되는 것을 방지하여 데이터의 무결성을 유지했습니다.
 <img width="786" height="477" alt="22222222222222222" src="https://github.com/user-attachments/assets/eb07e7a2-75de-4a9b-9d09-7ffdae91632f" />
 
----
+---<img width="786" height="478" alt="3333333333333" src="https://github.com/user-attachments/assets/89840fec-e954-48d2-8651-e0d06346d369" />
+
 
 ## 💻 주요 소스 코드 (Core Logic)
 
@@ -59,6 +60,7 @@ private void button1_Click(object sender, EventArgs e)
     }
 }
 ---
+<img width="616" height="272" alt="4444444444" src="https://github.com/user-attachments/assets/69df3b00-553c-40e2-a55e-214b541a2f2c" />
 
 ## 🚀 향후 발전 방향 (Future Work)
 현재 구현된 '에코 메신저'를 기반으로 향후 다음과 같은 기능을 추가하여 확장할 계획입니다.
