@@ -53,6 +53,7 @@
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(655, 204);
             listBox1.TabIndex = 1;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // textBox1
             // 
@@ -73,6 +74,7 @@
             // 
             // Form1
             // 
+            AcceptButton = button1;
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
@@ -82,6 +84,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "s";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
