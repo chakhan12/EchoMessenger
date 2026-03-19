@@ -60,6 +60,7 @@ private void button1_Click(object sender, EventArgs e)
     }
 }
 ---<img width="616" height="272" alt="4444444444" src="https://github.com/user-attachments/assets/0c082ce3-4ce5-4f83-a6c7-9b7b6cffe8c1" />
+<img width="616" height="272" alt="4444444444" src="https://github.com/user-attachments/assets/2ea3035a-ed5e-414d-8bd8-3121add885b6" />
 
 
 
