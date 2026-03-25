@@ -41,6 +41,7 @@
 <img width="786" height="477" alt="22222222222222222" src="https://github.com/user-attachments/assets/eb07e7a2-75de-4a9b-9d09-7ffdae91632f" />
 
 ---<img width="786" height="478" alt="3333333333333" src="https://github.com/user-attachments/assets/89840fec-e954-48d2-8651-e0d06346d369" />
+<img width="616" height="272" alt="4444444444" src="https://github.com/user-attachments/assets/75adc7c4-eecd-4bcf-acf5-b190d4a9c0ee" />
 
 
 ## 💻 주요 소스 코드 (Core Logic)
@@ -59,8 +60,6 @@ private void button1_Click(object sender, EventArgs e)
         textBox1.Focus();
     }
 }
----<img width="616" height="272" alt="4444444444" src="https://github.com/user-attachments/assets/0c082ce3-4ce5-4f83-a6c7-9b7b6cffe8c1" />
-<img width="616" height="272" alt="4444444444" src="https://github.com/user-attachments/assets/2ea3035a-ed5e-414d-8bd8-3121add885b6" />
 
 
 
