@@ -18,7 +18,7 @@
     * `button1_Click` 이벤트를 통해 `textBox1.Text` 값을 `listBox1.Items.Add()` 메서드로 전달하여 화면에 출력.
 <img width="792" height="477" alt="111111111111111111" src="https://github.com/user-attachments/assets/f6a7b284-f23d-4e59-b314-2b531b53366f" />
 
--과제 1 완성 프롬포트-
+-과제 1 완성 실행화면-
 ---
 
 ### [과제 2] 사용자 편의성(UX) 강화
@@ -41,7 +41,7 @@
 * **효과**: 대화창에 무의미한 빈 줄이 추가되는 것을 방지하여 데이터의 무결성을 유지했습니다.
 <img width="786" height="477" alt="22222222222222222" src="https://github.com/user-attachments/assets/eb07e7a2-75de-4a9b-9d09-7ffdae91632f" />
 
--과제2 프롬포트-
+-과제2 실행화면-
 
 
 ---<img width="786" height="478" alt="3333333333333" src="https://github.com/user-attachments/assets/89840fec-e954-48d2-8651-e0d06346d369" />
